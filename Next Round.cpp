@@ -16,6 +16,9 @@ int main(){
 		}	
 	}
 	cout<<count;
+<<<<<<< HEAD
 	
+=======
+>>>>>>> 6866e4554cda63a92d0ed69736770486d487bf15
 	return 0;
 }
