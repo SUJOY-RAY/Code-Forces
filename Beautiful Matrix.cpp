@@ -16,5 +16,6 @@ int main(){
 	}	
 	int moves=abs(x-2)+abs(y-2);
 	cout<<moves<<endl;
+	
 return 0;
 }
